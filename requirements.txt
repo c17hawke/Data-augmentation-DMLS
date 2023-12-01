@@ -2,3 +2,9 @@ notebook
 ipywidgets
 tqdm
 python-dotenv
+nltk 
+opencv-python 
+numpy 
+transformers 
+torch 
+torchvision
