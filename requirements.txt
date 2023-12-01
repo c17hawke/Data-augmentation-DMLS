@@ -9,3 +9,5 @@ transformers
 torch 
 torchvision
 nlpaug
+matplotlib
+pillow
