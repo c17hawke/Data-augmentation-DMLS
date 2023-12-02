@@ -1,9 +1,8 @@
 # Data-Augmentation
 
-
 It is a family of techniques to increase the amount of training data
 
-There are 3 kinds of data augmentation techniques as per the author - 
+There are 3 kinds of data augmentation techniques as per the author -
 
 1. Simple label-preserving transformation
 2. Perturbation
